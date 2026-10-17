@@ -1,0 +1,22 @@
+category,rank,product_name,revenue_m,units
+Beauty,1,Perfume 50ml,83.5,189
+Beauty,2,Makeup Set,59.3,209
+Beauty,3,Hair Dryer,58.0,237
+Books & Stationery,1,Art Supplies,27.0,242
+Books & Stationery,2,English Textbook,22.8,267
+Books & Stationery,3,Business Book,17.5,253
+Electronics,1,Laptop 15.6in,525.3,95
+Electronics,2,Smartphone 128GB,384.0,129
+Electronics,3,LED Monitor 24in,276.1,155
+Fashion,1,Winter Coat,98.9,119
+Fashion,2,Sneakers,94.8,224
+Fashion,3,Men's Jacket,71.9,146
+Groceries,1,Coffee Beans 500g,59.2,454
+Groceries,2,Honey 1kg,56.4,496
+Groceries,3,Walnuts 1kg,49.9,485
+Home & Kitchen,1,Vacuum Cleaner,128.1,97
+Home & Kitchen,2,Air Fryer,109.0,123
+Home & Kitchen,3,Non-stick Pan Set,79.3,201
+Sports,1,Running Shoes,55.2,111
+Sports,2,Fitness Tracker,43.9,169
+Sports,3,Dumbbells 10kg,43.8,193

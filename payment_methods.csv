@@ -1,0 +1,7 @@
+payment_method,orders,cancel_rate_pct,return_rate_pct,avg_order_value,share_of_orders_pct
+Payme,2745,6.7,6.56,439219.61,26.74
+Click,2466,6.0,6.04,447812.66,24.03
+Cash on delivery,2189,10.0,6.85,443358.79,21.33
+Card (Uzcard/Humo),2105,6.08,5.99,443844.06,20.51
+Installment,636,6.45,6.29,1385551.08,6.2
+Unknown,123,11.38,5.69,599469.12,1.2

@@ -1,0 +1,11 @@
+step,rows_affected
+Standardised region spelling,240
+Impossible ages set to missing (<14 or >90),36
+Missing ages left as NaN (not imputed),215
+Duplicate order rows removed,62
+Dates in dd.mm.yyyy converted to ISO,411
+Status casing normalised,205
+Missing payment method -> 'Unknown',123
+Rows with quantity <= 0 dropped,17
+Items without a matching order dropped,0
+Orders with no valid items dropped,9

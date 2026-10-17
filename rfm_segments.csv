@@ -1,0 +1,7 @@
+segment,customers,revenue_uzs_m,avg_orders,avg_recency_days,customer_share_pct,revenue_share_pct
+Lost / hibernating,2013,1123.75,1.1,487.84,37.24,25.11
+Champions,287,921.49,6.17,50.29,5.31,20.59
+Needs attention,1240,825.56,1.37,187.68,22.94,18.45
+New customers,1361,685.97,1.0,72.79,25.18,15.33
+Loyal,364,627.0,3.5,139.17,6.73,14.01
+At risk (valuable),141,291.92,3.97,411.83,2.61,6.52

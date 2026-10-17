@@ -1,0 +1,61 @@
+product_id,product_name,category,list_price,unit_cost
+P001,Wireless Earbuds,Electronics,380000,312000
+P002,Smartphone 128GB,Electronics,3200000,2624000
+P003,Smart Watch,Electronics,850000,697000
+P004,Power Bank 20000mAh,Electronics,260000,213000
+P005,Bluetooth Speaker,Electronics,420000,344000
+P006,Laptop 15.6in,Electronics,6000000,4920000
+P007,Tablet 10in,Electronics,2300000,1886000
+P008,Phone Case,Electronics,45000,37000
+P009,USB-C Charger,Electronics,150000,123000
+P010,Webcam HD,Electronics,330000,271000
+P011,Gaming Mouse,Electronics,280000,230000
+P012,LED Monitor 24in,Electronics,1900000,1558000
+P013,Electric Kettle,Home & Kitchen,180000,117000
+P014,Blender,Home & Kitchen,320000,208000
+P015,Air Fryer,Home & Kitchen,950000,618000
+P016,Non-stick Pan Set,Home & Kitchen,420000,273000
+P017,Bed Sheet Set,Home & Kitchen,260000,169000
+P018,Vacuum Cleaner,Home & Kitchen,1400000,910000
+P019,Dinner Set 24pcs,Home & Kitchen,380000,247000
+P020,Thermos 1L,Home & Kitchen,120000,78000
+P021,Table Lamp,Home & Kitchen,90000,58000
+P022,Storage Boxes,Home & Kitchen,60000,39000
+P023,Men's Jacket,Fashion,520000,260000
+P024,Women's Dress,Fashion,380000,190000
+P025,Sneakers,Fashion,450000,225000
+P026,Jeans,Fashion,280000,140000
+P027,Hoodie,Fashion,220000,110000
+P028,Winter Coat,Fashion,890000,445000
+P029,T-shirt Pack,Fashion,120000,60000
+P030,Backpack,Fashion,190000,95000
+P031,Scarf,Fashion,70000,35000
+P032,Leather Belt,Fashion,110000,55000
+P033,Sports Socks Pack,Fashion,45000,22000
+P034,Handbag,Fashion,340000,170000
+P035,Face Cream,Beauty,140000,63000
+P036,Perfume 50ml,Beauty,480000,216000
+P037,Shampoo,Beauty,65000,29000
+P038,Lipstick,Beauty,85000,38000
+P039,Hair Dryer,Beauty,260000,117000
+P040,Sunscreen SPF50,Beauty,110000,50000
+P041,Makeup Set,Beauty,300000,135000
+P042,Beard Trimmer,Beauty,190000,86000
+P043,Yoga Mat,Sports,95000,57000
+P044,Dumbbells 10kg,Sports,240000,144000
+P045,Football,Sports,130000,78000
+P046,Running Shoes,Sports,520000,312000
+P047,Fitness Tracker,Sports,280000,168000
+P048,Resistance Bands,Sports,60000,36000
+P049,Notebook A5,Books & Stationery,18000,11000
+P050,Pen Set,Books & Stationery,25000,15000
+P051,Business Book,Books & Stationery,75000,45000
+P052,English Textbook,Books & Stationery,90000,54000
+P053,Planner,Books & Stationery,55000,33000
+P054,Art Supplies,Books & Stationery,120000,72000
+P055,Green Tea 200g,Groceries,35000,28000
+P056,Dried Fruit Mix,Groceries,80000,64000
+P057,Honey 1kg,Groceries,120000,96000
+P058,Walnuts 1kg,Groceries,110000,88000
+P059,Olive Oil 1L,Groceries,95000,76000
+P060,Coffee Beans 500g,Groceries,140000,112000

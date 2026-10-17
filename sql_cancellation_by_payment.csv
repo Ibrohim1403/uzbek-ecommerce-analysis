@@ -1,0 +1,7 @@
+payment_method,orders,cancel_rate_pct,return_rate_pct
+Unknown,123,11.4,5.7
+Cash on delivery,2189,10.0,6.9
+Payme,2745,6.7,6.6
+Installment,636,6.4,6.3
+Card (Uzcard/Humo),2105,6.1,6.0
+Click,2466,6.0,6.0
